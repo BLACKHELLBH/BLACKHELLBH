@@ -1989,6 +1989,81 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rFBtvp9v87 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rFBtvp9v87 h2 {
+  text-align: center;
+}
+.cid-rFBtvp9v87 h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rFBtvp9v87 p {
+  color: #767676;
+}
+.cid-rFBtvp9v87 img {
+  object-fit: cover;
+}
+.cid-rFBtvp9v87 .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-rFBtvp9v87 .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-rFBtvp9v87 .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+.cid-rFBtvp9v87 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rFBtvp9v87 .card-title {
+  font-weight: 500;
+}
+.cid-rFBtvp9v87 .card-img {
+  text-align: inherit;
+}
+.cid-rFBtvp9v87 .card-img span {
+  font-size: 48px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-rFBtvp9v87 .mbr-figure {
+    padding-right: 2rem;
+    padding-left: 2rem;
+    height: 100%;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rFBtvp9v87 .mbr-figure {
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-rFBtvp9v87 .block-content {
+    flex-direction: row;
+    -webkit-flex-direction: row;
+    text-align: center;
+  }
+  .cid-rFBtvp9v87 .block-content .card {
+    flex-basis: 100%;
+    -webkit-flex-basis: 100%;
+  }
+  .cid-rFBtvp9v87 .card:nth-child(1) {
+    padding-bottom: 0!important;
+  }
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -2370,78 +2445,43 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rFBtvp9v87 {
+.cid-rFBvyLLy9g {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rFBtvp9v87 h2 {
-  text-align: center;
-}
-.cid-rFBtvp9v87 h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-rFBtvp9v87 p {
+.cid-rFBvyLLy9g .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rFBtvp9v87 img {
-  object-fit: cover;
-}
-.cid-rFBtvp9v87 .block-content {
+.cid-rFBvyLLy9g .media-row {
   display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
+  justify-content: center;
+  -webkit-justify-content: center;
 }
-.cid-rFBtvp9v87 .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
+.cid-rFBvyLLy9g .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
 }
-.cid-rFBtvp9v87 .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
+.cid-rFBvyLLy9g .team-item .item-image img {
+  width: 100%;
 }
-.cid-rFBtvp9v87 .mbr-section-subtitle {
-  color: #767676;
+.cid-rFBvyLLy9g .team-item .item-name p {
+  margin-bottom: 0;
 }
-.cid-rFBtvp9v87 .card-title {
-  font-weight: 500;
+.cid-rFBvyLLy9g .team-item .item-role p {
+  margin-bottom: 0;
 }
-.cid-rFBtvp9v87 .card-img {
-  text-align: inherit;
+.cid-rFBvyLLy9g .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
 }
-.cid-rFBtvp9v87 .card-img span {
-  font-size: 48px;
-  color: #707070;
+.cid-rFBvyLLy9g .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
 }
-@media (min-width: 992px) {
-  .cid-rFBtvp9v87 .mbr-figure {
-    padding-right: 2rem;
-    padding-left: 2rem;
-    height: 100%;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rFBtvp9v87 .mbr-figure {
-    padding-bottom: 2rem;
-    padding-top: 1rem;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-rFBtvp9v87 .block-content {
-    flex-direction: row;
-    -webkit-flex-direction: row;
-    text-align: center;
-  }
-  .cid-rFBtvp9v87 .block-content .card {
-    flex-basis: 100%;
-    -webkit-flex-basis: 100%;
-  }
-  .cid-rFBtvp9v87 .card:nth-child(1) {
-    padding-bottom: 0!important;
-  }
+.cid-rFBvyLLy9g .team-item .item-caption {
+  background: #efefef;
 }
